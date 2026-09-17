@@ -73,7 +73,7 @@ class robotman : public brcomp_multiconnect {
 
   public:
     robotman();
-    const char *get_name() { return "Robot Manager"; }
+    const char *get_name() { return "Robot Manager hehe"; }
 
     void init();
     void setup();
